@@ -429,7 +429,7 @@ tmap_arrange(IncomeQueen, IncomeRook, IncomeBoth, ncol = 3, nrow = 1)
 
 <figure>
 <img
-src="Lab-3-Student-Print-Version_files/figure-gfm/Neighboursmap-1.png"
+src="./Neighboursmap-1.png"
 alt="Saskatoon census dissemination areas showing median total income neighbours queens weight (left) rooks weight (middle) and the combination of the two (right)." />
 <figcaption aria-hidden="true">Saskatoon census dissemination areas
 showing median total income neighbours queens weight (left) rooks weight
@@ -644,7 +644,7 @@ tmap_arrange(map_LISA_Income, map_LISA_French, ncol = 2, nrow = 1)
 
 <figure>
 <img
-src="Lab-3-Student-Print-Version_files/figure-gfm/MappingLocalMoransI-1.png"
+src="./MappingLocalMoransI-1.png"
 alt="Saskatooon census dissemination areas showing LISA z-scores for median total income (left) and percentage of respondants with knowledge of french (right)." />
 <figcaption aria-hidden="true">Saskatooon census dissemination areas
 showing LISA z-scores for median total income (left) and percentage of
@@ -673,7 +673,7 @@ moran.plot(Income_noNA$`Median total income`, Income.lw, zero.policy=TRUE, spChk
 
 <figure>
 <img
-src="Lab-3-Student-Print-Version_files/figure-gfm/MoransIScatter-1.png"
+src="./MoransIScatter-1.png"
 alt="Moran’s I scatter plot for median total income." />
 <figcaption aria-hidden="true">Moran’s I scatter plot for median total
 income.</figcaption>
@@ -687,7 +687,7 @@ moran.plot(French_noNA$PercFrench, French.lw, zero.policy=TRUE, spChk=NULL, labe
 
 <figure>
 <img
-src="Lab-3-Student-Print-Version_files/figure-gfm/MoransIScatter2-1.png"
+src="./MoransIScatter2-1.png"
 alt="Moran’s I scatter plot for percentage of respondants with knowledge of french." />
 <figcaption aria-hidden="true">Moran’s I scatter plot for percentage of
 respondants with knowledge of french.</figcaption>
