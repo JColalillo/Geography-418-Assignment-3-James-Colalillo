@@ -341,7 +341,7 @@ tmap_arrange(map_Income, map_French, ncol = 2, nrow = 1)
 ```
 
 <figure>
-<img src=./StudyArea-1.png"
+<img src=[./StudyArea-1.png](https://raw.githubusercontent.com/JColalillo/Geography-418-Assignment-3-James-Colalillo/refs/heads/main/StudyArea-1.png)"
 alt="Saskatoon census dissemination areas showing median total income (left) and percentage of respondants with knowledge of french (right)." />
 <figcaption aria-hidden="true">Saskatoon census dissemination areas
 showing median total income (left) and percentage of respondants with
