@@ -1,4 +1,4 @@
-Spatial Autocorrelation Tutorial Geography 418 Assignment 3
+Spatial Autocorrelation Tutorial 
 ================
 James Colalillo
 October 20, 2024
